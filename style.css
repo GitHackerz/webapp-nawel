@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c7eaff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container-card {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container-card h1{
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+#search {
+    padding: 8px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+#suggestions {
+    position: relative;
+    width: 250px;
+    margin: 0 auto;
+}
+
+#suggestions div {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#suggestions div:hover {
+    background-color: #e0e0e0;
+}
+
+#weather {
+    margin-top: 20px;
+}
+
+#weather h2 {
+    margin: 10px 0;
+}
+
+#weather p {
+    margin: 5px 0;
+}
+    
