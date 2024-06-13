@@ -1,7 +1,3 @@
-Sure, here's the updated report incorporating the changes we've made:
-
----
-
 # Weather App Project Report
 
 ## Introduction
@@ -193,7 +189,3 @@ The final application successfully meets the outlined objectives. Users can ente
 
 ## Conclusion
 This project demonstrates how to build a web application that interacts with external APIs to provide real-time data to users. The use of modern web development tools and frameworks, such as Tailwind CSS and Flowbite, helps in creating a responsive and visually appealing interface.
-
-Future improvements could include adding features such as a forecast for the next few days, a map view of the selected city, and enhancing error handling to provide more detailed feedback to the user.
-
----
