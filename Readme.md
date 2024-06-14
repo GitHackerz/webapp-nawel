@@ -172,12 +172,12 @@ Le fichier HTML comprend un champ de saisie pour le nom de la ville, un bouton p
 ```
 
 ### Style
-Native CSS is used for styling the application, providing a clean and responsive design. Flowbite Tailwind components are integrated for enhancing the user interface of some elements.
+Le CSS natif est utilisé pour styliser l'application, offrant un design propre et réactif. Les composants Flowbite Tailwind sont intégrés pour améliorer l'interface utilisateur de certains éléments.
 
 ### Tools and Libraries
-- **Fetch API**: Used to make HTTP requests to the OpenWeatherMap API.
-- **HTML/CSS**: For structuring and styling the web page.
-- **JavaScript**: For handling user input, making API requests, and updating the DOM.
+- **Fetch API**: Utilisé pour effectuer des requêtes HTTP vers l'API OpenWeatherMap.
+- **HTML/CSS**: Pour structurer et styliser la page web.
+- **JavaScript**: Pour gérer les entrées utilisateur, effectuer des requêtes API et mettre à jour le DOM.
 
 ## Résultats
 L'application finale répond avec succès aux objectifs définis. Les utilisateurs peuvent entrer le nom d'une ville, recevoir des suggestions en temps réel et visualiser les données météorologiques actuelles pour la ville sélectionnée. L'interface est conviviale et performante, avec une récupération et un affichage rapides des données.
